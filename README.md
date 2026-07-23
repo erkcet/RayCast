@@ -1,21 +1,31 @@
-# Get Raycast Pro free for 30 days
+# Free Raycast Pro referral codes
 
-Use my referral link to try Raycast Pro free for 30 days:
+Get a 30-day Raycast Pro trial with one of the referral codes below.
 
-## [Claim your free Raycast Pro trial →](https://www.raycast.com/hey/66957497)
+> 🔥 **Only 1 code left**
+>
+> **Last updated:** July 23, 2026
 
-No credit card is required to start. The trial includes:
+## Available codes
+
+| # | Code | Referral link | Status |
+|---:|---|---|---|
+| 1 | `66957497` | [Claim 30 days free →](https://www.raycast.com/hey/66957497) | ✅ Available |
+
+Each referral code can be used only once. Codes are available on a first-come, first-served basis.
+
+## What you get
+
+No credit card is required to start. Your 30-day trial includes:
 
 - Raycast AI
 - Cloud Sync
 - Custom Themes
 - Other Raycast Pro features
 
-The referral code is one-time use and is available on a first-come, first-served basis.
-
 ## How it works
 
-1. Open the referral link.
+1. Choose an available code.
 2. Sign up or log in to Raycast.
 3. Start your 30-day Raycast Pro trial.
 
