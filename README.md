@@ -1,37 +1,26 @@
-# Raycast Pro referral codes
+# Get Raycast Pro free for 30 days
 
-Active, one-time Raycast Pro referral codes. A successful referral gives a new user a 30-day Pro trial.
+Use my referral link to try Raycast Pro free for 30 days:
 
-## Active codes
+## [Claim your free Raycast Pro trial →](https://www.raycast.com/hey/66957497)
 
-| # | Code | Link | Added |
-|---:|---|---|---|
-| 1 | `66957497` | [Claim 30 days free](https://www.raycast.com/hey/66957497) | 2026-02-22 |
-
-Each code can be claimed once. If a link no longer works, please [open an issue](https://github.com/erkcet/RayCast/issues/new).
-
-## What the trial includes
+No credit card is required to start. The trial includes:
 
 - Raycast AI
 - Cloud Sync
 - Custom Themes
 - Other Raycast Pro features
 
-## Maintaining this list
+The referral code is one-time use and is available on a first-come, first-served basis.
 
-`data/codes.json` is the source of truth. To add or remove a code:
+## How it works
 
-1. Edit `data/codes.json`.
-2. Run `npm run readme`.
-3. Run `npm test`.
-4. Commit both the data and generated README.
-
-GitHub Actions checks data and README consistency on every change. A daily scheduled check also verifies that each listed URL still serves a Raycast referral page.
+1. Open the referral link.
+2. Sign up or log in to Raycast.
+3. Start your 30-day Raycast Pro trial.
 
 ## Referral disclosure
 
-Raycast states that the person sharing a code may receive a $10 account credit if the referred user finishes the trial and becomes an active Pro subscriber.
+If you complete the trial and become an active Raycast Pro subscriber, I may receive a $10 Raycast account credit.
 
-## About Raycast
-
-[Raycast](https://www.raycast.com) is a productivity launcher for macOS and Windows. Learn more on the [Raycast Pro page](https://www.raycast.com/pro).
+[Learn more about Raycast](https://www.raycast.com)
