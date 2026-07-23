@@ -1,0 +1,15 @@
+{
+  "name": "raycast-referral-codes",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "readme": "node scripts/render-readme.mjs",
+    "check:readme": "node scripts/render-readme.mjs --check",
+    "check:links": "node scripts/check-links.mjs",
+    "test": "npm run check:readme && npm run check:links"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
