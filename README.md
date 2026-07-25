@@ -2,17 +2,15 @@
 
 Get a 30-day Raycast Pro trial with one of the referral codes below.
 
-> 🔥 **Only 1 code left**
+> ⏳ **No codes available right now**
 >
-> **Last updated:** July 23, 2026
+> **Last updated:** July 26, 2026
 
-## Available codes
+All referral codes have been claimed.
 
-| # | Code | Referral link | Status |
-|---:|---|---|---|
-| 1 | `66957497` | [Claim 30 days free →](https://www.raycast.com/hey/66957497) | ✅ Available |
+## ⭐ [Star this repository](https://github.com/erkcet/RayCast)
 
-Each referral code can be used only once. Codes are available on a first-come, first-served basis.
+Star the repo so you can find it easily and check back when new codes are added.
 
 ## What you get
 
@@ -25,7 +23,7 @@ No credit card is required to start. Your 30-day trial includes:
 
 ## How it works
 
-1. Choose an available code.
+1. Check back for a new available code.
 2. Sign up or log in to Raycast.
 3. Start your 30-day Raycast Pro trial.
 
